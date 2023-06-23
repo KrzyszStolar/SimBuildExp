@@ -1,2 +1,2 @@
 # SimBuildExp
-# W repozytorium znajduje się folder
+W repozytorium znajduje się folder
