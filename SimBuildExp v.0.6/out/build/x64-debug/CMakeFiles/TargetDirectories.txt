@@ -1,0 +1,5 @@
+C:/Users/krzys/source/repos/SimBuildExp v.0.5.2/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/krzys/source/repos/SimBuildExp v.0.5.2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/krzys/source/repos/SimBuildExp v.0.5.2/out/build/x64-debug/SimBuildExp v.0.5.2/CMakeFiles/CMakeTarget.dir
+C:/Users/krzys/source/repos/SimBuildExp v.0.5.2/out/build/x64-debug/SimBuildExp v.0.5.2/CMakeFiles/edit_cache.dir
+C:/Users/krzys/source/repos/SimBuildExp v.0.5.2/out/build/x64-debug/SimBuildExp v.0.5.2/CMakeFiles/rebuild_cache.dir
